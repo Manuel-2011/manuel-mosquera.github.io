@@ -44,7 +44,7 @@ export const profile = {
     },
     {
       label: 'GitHub',
-      href: 'https://github.com/manuel-mosquera',
+      href: 'https://github.com/Manuel-2011',
     },
     {
       label: 'Google Scholar',
