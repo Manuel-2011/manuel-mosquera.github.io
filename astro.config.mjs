@@ -3,6 +3,6 @@ import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
   site: 'https://manuel-2011.github.io',
-  base: '/manuel-mosquera.github.io/',
+  base: '/manuel-mosquera_site/',
   integrations: [tailwind({ applyBaseStyles: false })],
 });
