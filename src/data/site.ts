@@ -35,7 +35,8 @@ export const profile = {
     'Predictive latent world models for reasoning, planning, and generalization in embodied agents.',
   email: 'ma.mosquerao@uniandes.edu.co',
   phone: '(+57) 310 565 7732',
-  cvPath: '/CV_Manuel_Mosquera.pdf',
+  // Use a relative path so the asset resolves under a repo base path.
+  cvPath: 'CV_Manuel_Mosquera.pdf',
   links: [
     {
       label: 'Email',
